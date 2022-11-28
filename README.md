@@ -1,2 +1,2 @@
 # Modal-window
-Modal window 
+Simple Modal window 
